@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+}
+
+.menu-volta {
+  background-color: lightpink;
+  padding: 40px;
+  text-decoration: none;
+}
+
+.voltar {
+  background-color: lightsalmon;
+  padding: 40px;
+  text-decoration: none;
+}
+
+.primeiro {
+  background-color: lightslategray;
+  padding: 40px;
+  text-decoration: none;
+}
+
+.segundo {
+  background-color: lightslategray;
+  padding: 40px;
+  text-decoration: none;
+}
+
+.terceiro {
+  background-color: lightslategray;
+  padding: 40px;
+  text-decoration: none;
+}
+
+.quarto {
+  background-color: lightslategray;
+  padding: 40px;
+  text-decoration: none;
+}
+
+.quinto {
+  background-color: lightslategray;
+  padding: 40px;
+  text-decoration: none;
+}
+
+.menu ul li{
+  padding: 20px;
+  margin-top: 30px;
+  display: inline-block;  
+}
+
+.menu ul li a:hover {
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.menu02 ul li {
+  padding: 20px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.menu02 ul li a:hover {
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.menu03 ul li {
+  padding: 20px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.menu03 ul li a:hover {
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.menu04 ul li {
+  padding: 20px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.menu04 ul li a:hover {
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
